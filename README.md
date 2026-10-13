@@ -1,4 +1,4 @@
-<图片 width="1878" height="922" alt="2025081609022079 (1)" src="https://github.com/user-attachments/assets/ab12930b-3be2-4e13-88f6-12be1e0ed624" />
+
 
 # 餐饮店堂食外卖扫码点餐微信小程序-ym7k
 获取源码：ym7k.com/18044/餐饮店堂食外卖扫码点餐微信小程序-ym7k
@@ -17,10 +17,8 @@
 
 先餐后付模式下系统需防范恶意逃单。措施包括：限制未支付订单数量，用户有未支付订单时不可再次下单；记录用户信用数据，多次逃单用户加入黑名单；店员端提供未支付订单提醒功能。支付异常处理方面系统记录支付日志，对支付失败、回调超时等情况进行重试和人工干预。先付后餐和先餐后付双模式支付体系需要灵活订单状态机和严谨支付流程设计，合理风险控制措施和异常处理机制是保障商家资金安全和用户用餐体验的技术基础。
 
-<图片 width="1878" height="922" alt="2025081609021676" src="https://github.com/user-attachments/assets/b88eb50f-4ee4-4f45-8d07-b9f752e574f5" />
-<img 宽度="1878" height="922" alt="2025081609021294" src="https://github.com/user-attachments/assets/aec69be2-1757-4ec1-8ad9-eca4c3d8d7af" />
+
 <img width="1878" height="922" alt="2025081609020815" src="https://github.com/user-attachments/assets/ca91a070-5790-4ccc-ba16-13b317309fb1" />
-<img width="1878" 高度="922" 替代文本="2025081609020312" 源地址="https://github.com/user-attachments/assets/39a2d25d-c5b1-4b5f-b5cd-7064996d38d0" />
-![正在上传 2025081609022079 (1).png…]()
+
 
 
